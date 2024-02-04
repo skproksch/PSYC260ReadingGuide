@@ -3,7 +3,7 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
+  title: "Reading Guide for Gazzaniga, Ivry, and Mangun Cognitive Neuroscience" 
   site-url: "https://openscapes.github.io/quarto-website-tutorial" 
   repo-url: https://github.com/openscapes/quarto-website-tutorial 
   repo-actions: [edit, issue]
@@ -34,6 +34,7 @@ website:
       - href: index.qmd
         text: Welcome
       - Gazzaniga-Chapter-2.qmd
+      - Gazzaniga Chapter 8-2.qmd
 
 
 format:
