@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/browser.html</loc>
-    <lastmod>2024-02-04T05:32:51.646Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/jupyter.html</loc>
-    <lastmod>2024-02-04T05:32:51.678Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/Gazzaniga-Chapter-2.html</loc>
-    <lastmod>2024-02-04T05:32:51.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/index.html</loc>
-    <lastmod>2024-02-04T05:32:51.642Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/index.html</loc>
-    <lastmod>2024-02-04T05:32:51.678Z</lastmod>
+    <loc>https://openscapes.github.io/quarto-website-tutorial/Gazzaniga Chapter 8-1.html</loc>
+    <lastmod>2024-02-04T20:24:31.923Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/rstudio.html</loc>
-    <lastmod>2024-02-04T05:32:51.678Z</lastmod>
+    <lastmod>2024-02-04T20:24:32.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/index.html</loc>
+    <lastmod>2024-02-04T20:24:32.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/quarto-website-tutorial/index.html</loc>
+    <lastmod>2024-02-04T20:24:31.987Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/quarto-website-tutorial/Gazzaniga-Chapter-2.html</loc>
+    <lastmod>2024-02-04T20:24:31.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/jupyter.html</loc>
+    <lastmod>2024-02-04T20:24:32.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/browser.html</loc>
+    <lastmod>2024-02-04T20:24:31.987Z</lastmod>
   </url>
 </urlset>
