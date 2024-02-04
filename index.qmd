@@ -1,18 +1,18 @@
 ---
-title: "Making shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+title: "Reading Guide for Gazzaniga, Ivry, and Mangun Cognitive Neuroscience"
+subtitle: "for students enrolled in PSYC 260 Behavioral Neuroscience at Augustana University"
+date: February 3, 2024
 ---
 
 ## Welcome {#welcome}
 
-This Reading Guide is for students enrolled in PSYC 260 Behavioral Neuroscience at Augustana University. Course information for students is available on the [Course Website]{https://augie.instructure.com/}.
-
+This Reading Guide is for students enrolled in PSYC 260 Behavioral Neuroscience at Augustana University. Course information for students is available on the [Course Website](https://augie.instructure.com/)
 
 ## How to use the Reading Guide?
-The purpose of this reading guide is to help you identify the important content in our textbook. This reading guide is not due to be graded. Rather, answering the questions in the guide will give you **an opportunity to learn about these topics prior to class**, where we’ll work with this material further.
+
+The purpose of this reading guide is to help you identify the important content in our textbook. This reading guide is not due to be graded. Rather, answering the questions in the guide will give you **an opportunity to learn about these topics prior to class**, where we'll work with this material further.
 
 ## Access Reading Guide's for specific sections below:
+
 -   [Reading 1 Dummy Link](https://openscapes.github.io/series)
 -   [Reading 2 Dummy Link](https://openscapes.github.io/series)
-
-

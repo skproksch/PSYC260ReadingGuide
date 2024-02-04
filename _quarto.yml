@@ -33,7 +33,7 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - explore.qmd
+      - Gazzaniga-Chapter-2.qmd
       - section: quarto-workflows/index.qmd
         contents: 
           - quarto-workflows/browser.md
