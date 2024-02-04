@@ -14,5 +14,5 @@ The purpose of this reading guide is to help you identify the important content 
 
 ## Access Reading Guide's for specific sections below:
 
--   [Reading 1 Dummy Link](https://openscapes.github.io/series)
--   [Reading 2 Dummy Link](https://openscapes.github.io/series)
+-   [Gazzaniga 2.4 & 2.5](https://skproksch.github.io/PSYC260ReadingGuide/Gazzaniga-Chapter-2.html)
+-   Gazzaniga 8.1

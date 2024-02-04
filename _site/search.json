@@ -81,7 +81,7 @@
     "href": "index.html#access-reading-guides-for-specific-sections-below",
     "title": "Reading Guide for Gazzaniga, Ivry, and Mangun Cognitive Neuroscience",
     "section": "Access Reading Guide’s for specific sections below:",
-    "text": "Access Reading Guide’s for specific sections below:\n\nReading 1 Dummy Link\nReading 2 Dummy Link"
+    "text": "Access Reading Guide’s for specific sections below:\n\nGazzaniga 2.4 & 2.5\nGazzaniga 8.1"
   },
   {
     "objectID": "learning-more.html",
@@ -292,5 +292,19 @@
     "title": "Transition from RMarkdown",
     "section": "Troubleshooting",
     "text": "Troubleshooting\n\nGitHub Action fails, says you need RMarkdown but you don’t have R code!\nAnd you changed all .Rmds to .qmds!\nYou likely have a few setup code chunks from RMarkdown, that look like this:\n{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = FALSE)\nYou can find them by opening each of your files and having a look, or use GitHub’s search for the keyword knitr"
+  },
+  {
+    "objectID": "Gazzaniga Chapter 8-1.html",
+    "href": "Gazzaniga Chapter 8-1.html",
+    "title": "Gazzaniga Chapter 8.1",
+    "section": "",
+    "text": "The purpose of this reading guide is to help you identify the important content in our textbook. This reading guide is not due to be graded. Rather, answering the questions in the guide will give you an opportunity to learn about these topics prior to class, where we’ll work with this material further.\n\nThe Spinal Cord"
+  },
+  {
+    "objectID": "Gazzaniga Chapter 8.html",
+    "href": "Gazzaniga Chapter 8.html",
+    "title": "Gazzaniga Chapter 8.1",
+    "section": "",
+    "text": "The purpose of this reading guide is to help you identify the important content in our textbook. This reading guide is not due to be graded. Rather, answering the questions in the guide will give you an opportunity to learn about these topics prior to class, where we’ll work with this material further.\n\nThe Spinal Cord"
   }
 ]
